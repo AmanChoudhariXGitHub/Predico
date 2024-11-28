@@ -17,11 +17,11 @@ https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
 ### Some Sceenshots of This Webapp -
 
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
+![](https://github.com/AmanChoudhariXGitHub/Predico/blob/master/screenshots/Capture1.PNG)
+![](https://github.com/AmanChoudhariXGitHub/Predico/blob/master/screenshots/Capture2.PNG)
+![](https://github.com/AmanChoudhariXGitHub/Predico/blob/master/screenshots/Capture3.PNG)
+![](https://github.com/AmanChoudhariXGitHub/Predico/blob/master/screenshots/Capture4.PNG)
+![](https://github.com/AmanChoudhariXGitHub/Predico/blob/master/screenshots/Capture5.PNG)
 
 
 ### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
